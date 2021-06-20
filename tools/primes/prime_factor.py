@@ -10,5 +10,3 @@ def pf(n):
                 n//=i
             else: break
     return res
-
-    
