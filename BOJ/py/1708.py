@@ -16,3 +16,5 @@ for i in l[::-1]:
     h+=[i]
 r+=h[1:-1]
 print(len(r))
+
+# related to: BOJ-4225

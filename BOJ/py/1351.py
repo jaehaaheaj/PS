@@ -6,3 +6,5 @@ def f(n):
     d[n]=x
     return x
 print(f(n))
+
+# related to: BOJ-1354

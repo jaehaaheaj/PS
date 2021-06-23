@@ -10,4 +10,4 @@ while 1:
             m=max(l[i][j],m)
     print(m)
 
-# related to: 1915
+# related to: BOJ-1915

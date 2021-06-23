@@ -8,4 +8,4 @@ for i in range(1,a):
         m=max(l[i][j],m)
 print(m*m)
 
-# related to: 4095
+# related to: BOJ-4095

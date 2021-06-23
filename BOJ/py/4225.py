@@ -36,3 +36,5 @@ while 1:
         d=min(d,e)
     print(f'Case {cn}: '+ '{0:.2f}'.format(ceil(d*100)/100))
     cn+=1
+
+# related to: BOJ-1708
