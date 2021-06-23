@@ -7,3 +7,5 @@ for i in range(1,a):
         l[i][j]*=min(l[i-1][j],l[i][j-1],l[i-1][j-1])+1
         m=max(l[i][j],m)
 print(m*m)
+
+# related to: 4095
